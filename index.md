@@ -67,4 +67,4 @@ Georg Wilsberg (Leonard Lansink) ist ein Buchantiquar in Münster. Da er immer k
 
 > übaquote
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9Fn1NkySFDQ%2Fmaxresdefault.jpg&f=1&nofb=1"/>
+<img src="Wilsberg.jpg"/>
