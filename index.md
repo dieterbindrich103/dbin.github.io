@@ -61,6 +61,5 @@ Georg Wilsberg (Leonard Lansink) ist ein Buchantiquar in Münster. Da er immer k
 * Wilsberg und der Tote im Beichtstuhl
 
 
->![Bild Schauspieler Leonard Lansink (Georg Wilsberg)](/wilsberg.jpg)
-
-<img src="https://images.app.goo.gl/SwGKw9H2QYnAGnD38"/>
+>Bild Schauspieler Leonard Lansink (Georg Wilsberg)
+![](/wilsberg.jpg)
