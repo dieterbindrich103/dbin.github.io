@@ -62,5 +62,6 @@ Georg Wilsberg (Leonard Lansink) ist ein Buchantiquar in Münster. Da er immer k
 
 
 > Bild Schauspieler Leonard Lansink (Georg Wilsberg)
+![Alternativer Text](/wilsberg.jpg "Optionaler Titel")
 
 <img src="https://images.app.goo.gl/SwGKw9H2QYnAGnD38"/>
